@@ -1,0 +1,23 @@
+{
+  "name": "kenyanrecipes",
+  "version": "1.0.0",
+  "description": "KE Recipes Api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BonifaceKamau/kenyanRecipes.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BonifaceKamau/kenyanRecipes/issues"
+  },
+  "homepage": "https://github.com/BonifaceKamau/kenyanRecipes#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
